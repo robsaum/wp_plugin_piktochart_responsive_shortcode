@@ -1,0 +1,1 @@
+# wp_plugin_piktochart_responsive_shortcode
